@@ -5,11 +5,11 @@ fun main(args: Array<String>){
         hero.add("100")
         hero.add("m")
      val hero2 = ArrayList<String>()  
-        hero.add("92")
-        hero.add("m")
+        hero2.add("92")
+        hero2.add("m")
      val hero3 = ArrayList<String>()  
-        hero.add("50")
-        hero.add("m")
+        hero3.add("50")
+        hero3.add("m")
      
         superhero.put("Batman", hero);
     
